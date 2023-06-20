@@ -1,0 +1,73 @@
+.body{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top:100px;
+    margin-bottom:50px;
+    font-family:'Plus Jakarta Sans';
+}
+
+.nombre {
+    display: inline;
+    height: 10px;
+    width: 5px;
+    background-color: midnightblue;
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.boton{
+    position:relative;
+    background-color:transparent;
+    color:darkgrey;
+    border:0px solid red;
+    font-family:'Plus Jakarta Sans';
+    font-weight:600;
+}
+
+.boton:hover{
+    color:midnightblue;
+}
+
+.avatar{
+    position:absolute;
+    height:40px;
+    width:40px;
+    margin:30px;
+}
+
+.textuNotify{
+    position:relative;
+    display:inline;
+    left:85px;
+    top:30px;
+    line-height:10px;
+}
+
+.botonnome {
+    position: relative;
+    background-color: transparent;
+    color: black;
+    border: 0px solid red;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 800;
+    font-size:15px;
+}
+
+    .botonnome:hover {
+        color: midnightblue;
+    }
+
+.botonnome1 {
+    position: relative;
+    background-color: transparent;
+    color: grey;
+    border: 0px solid red;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 800;
+    font-size: 15px;
+}
+
+    .botonnome1:hover {
+        color: midnightblue;
+    }
