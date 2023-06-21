@@ -71,3 +71,44 @@
     .botonnome1:hover {
         color: midnightblue;
     }
+
+.botonText {
+    position: relative;
+    background-color: white;
+    color: grey;
+    border: 1px solid darkgray;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 400;
+    font-size: 15px;
+    border-radius:5px;
+    height:80px;
+    width:500px;
+    top:30px;
+    left:85px;
+    text-align:left;
+}
+
+.botonText:hover{
+    background-color:aliceblue;
+    border:0px solid red;
+}
+
+.post {
+    position: absolute;
+    height: 40px;
+    left: 550px;
+    bottom: 1px;
+
+}
+.post:hover{
+    border:1px solid lightgray;
+    border-radius:5px;
+}
+
+.cerc{
+    position:absolute;
+    height:10px;
+    width:10px;
+    border-radius:50%;
+    background-color:salmon;
+}
